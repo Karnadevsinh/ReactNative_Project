@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "confusion",
+    "slug": "confusion",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./icon_app.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "bundleIdentifier": "net.food.confusion.confusion",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "net.food.confusion.confusion",
+      "versionCode": 1
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
